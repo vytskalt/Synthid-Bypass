@@ -3,7 +3,7 @@
 **Disclaimer:** This project is intended for educational and AI safety research purposes only. The tools and techniques described herein should not be used for malicious purposes, to circumvent copyright, or to misrepresent the origin of digital content. This proof if concept is presented "as-is" and without warranty.
 
 **Try it 100% free on Discord: [https://discord.gg/M7Gpr4tTP9](https://discord.gg/M7Gpr4tTP9)**
-
+**Learn More: [synthidbypass.com](synthidbypass.com)**
 ---
 
 ## 1. Overview
