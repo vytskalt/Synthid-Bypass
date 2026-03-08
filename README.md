@@ -64,17 +64,17 @@ The v2 release lives in [`Synthid-Bypass-v2.0.json`](Synthid-Bypass-v2.0.json). 
 
 Current v2 proof images live under [`comparison/before/`](comparison/before/) and [`comparison/after/`](comparison/after/).
 
-#### Example 10
-
-| Original | Processed |
-| --- | --- |
-| <img src="comparison/before/10.png" width="400"> | <img src="comparison/after/10.png" width="400"> |
-
 #### Example 12
 
 | Original | Processed |
 | --- | --- |
 | <img src="comparison/before/12.png" width="400"> | <img src="comparison/after/12.png" width="400"> |
+
+#### Example 10
+
+| Original | Processed |
+| --- | --- |
+| <img src="comparison/before/10.png" width="400"> | <img src="comparison/after/10.png" width="400"> |
 
 Additional workflow screenshots can be added under [`workflow_screenshots/`](workflow_screenshots/).
 
