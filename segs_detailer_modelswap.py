@@ -9,7 +9,7 @@ from nodes import MAX_RESOLUTION
 # Ensure Impact Pack modules are importable even if this node loads first.
 _THIS_DIR = os.path.dirname(__file__)
 _CUSTOM_NODES_DIR = os.path.abspath(os.path.join(_THIS_DIR, ".."))
-_IMPACT_MODULES_DIR = os.path.join(_CUSTOM_NODES_DIR, "ComfyUI-Impact-Pack", "modules")
+_IMPACT_MODULES_DIR = os.path.join(_CUSTOM_NODES_DIR, "comfyui-impact-pack", "modules")
 if os.path.isdir(_IMPACT_MODULES_DIR) and _IMPACT_MODULES_DIR not in sys.path:
     sys.path.append(_IMPACT_MODULES_DIR)
 
